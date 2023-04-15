@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameMaster", "GameMaster.csproj", "{8FD921A9-425C-4FF1-996E-BB6F1AD45995}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FD921A9-425C-4FF1-996E-BB6F1AD45995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD921A9-425C-4FF1-996E-BB6F1AD45995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD921A9-425C-4FF1-996E-BB6F1AD45995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD921A9-425C-4FF1-996E-BB6F1AD45995}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C5ABCCD-470B-4FB0-8E9B-AFE9BB4A1AD4}
+	EndGlobalSection
+EndGlobal
